@@ -1,0 +1,11 @@
+
+api:
+  key: CAMMIAR
+  url: "https://api.apilayer.com/exchangerates_data/convert"
+
+server:
+  port: 8008
+
+spring:
+  application:
+    name: currency-converter
